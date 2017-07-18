@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_1a5c7f103624f46b0293ed457e8ac163f8a275e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0d3e48e200296061415952a358fad487e129adaa">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.45.1_093f02d93c8ad3f056dcba8fb27c24f4295d6fdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_8c6df8f3fb6ee972281ae64a27f6cc5eaa44b699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_67fae6a8c886cb8e8bc2796ec32ca45b5736c82c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_6c12563d8b87e6e4b9702834e3dbbd2f11a19cce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_2499b5b828d43dccc8cd898adf572f26f53f168a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_db397a546de4e63fb4fc50d936494d12e7ac0d5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_6b8f5fc58a28a32a36c6c6d4343201e9e707c84a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_52906bd49e7aa4b0efde97a3935ebcdfbf0b89f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_d8c5d6b4a3e52083c32997c5daeb46235c0669fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_24dd145bda6725e3722cec8e688a37b5914ef210.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_9d23fa6cf682f0c4cb8f91d9b3d6b1431f36a6f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_67733733ffac12b7f04dbc1ee81a010d16210cce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_83865f698b51a1ece032ff8674f26ef8f6d761c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_e46973b614a7597d44597415d8720cf2876ba2f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/exploded-aar/nativeTest/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="44598b29dd9b576814ec91d398ba13c410d45f9e">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/nativeTest-react-native-camera-unspecified_f96890114e407b81ede2754b34dbe2cb1b0bea95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_2fbed8c1430d54863d294f03018d1b1d70fda567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_95f7a06262574b68211b29eb91759caedb7a02c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_350150fdc33335fa5067cc13737bce5d895a8212.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_affea18d1b21b3f88f4fb6bb6ea8d8e2e0d1c91b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_d75581f0f8032acf6710f320a7dfe3d612ecfd7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_188d038808c61eed66cacb33821fae2554af7e11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_100f42aeaf3f6aa857c618c5a4d212ed4d95c075.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_781a494f24744b941f3d7c91fde92db0637fc190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_4e47de245a488b8b4e02194d11b60de7edb26329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcusdb/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/marcusdb/Documents/Env/workspace/nativeTest/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_80b72c3bed6b1e2d12e89f91dd5ab0924d5f2ea7.jar" />
+    </item>
+
+</items>
